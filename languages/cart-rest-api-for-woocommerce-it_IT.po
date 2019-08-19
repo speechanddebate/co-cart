@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CoCart\n"
+"Report-Msgid-Bugs-To: https://github.com/co-cart/co-cart/issues\n"
+"POT-Creation-Date: 2019-08-19 02:12:08+00:00\n"
+"PO-Revision-Date: 2019-08-19 04:14+0200\n"
+"Last-Translator: Sébastien Dumont <mailme@sebastiendumont.com>\n"
+"Language-Team: Sébastien Dumont <mailme@sebastiendumont.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: cart-rest-api-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: cart-rest-api-for-woocommerce.php:78
+#, fuzzy
+msgid "Cloning this object is forbidden."
+msgstr "La clonazione di questo oggetto è vietata."
+
+#: cart-rest-api-for-woocommerce.php:89
+#, fuzzy
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+"L'annullamento della serializzazione delle istanze di questa classe è "
+"vietato."
+
+#: includes/admin/class-cocart-admin-action-links.php:46
+#: includes/admin/class-cocart-admin.php:58
+#, fuzzy
+msgid "Getting Started with %s"
+msgstr "Introduzione a %s"
+
+#: includes/admin/class-cocart-admin-action-links.php:46
+#, fuzzy
+msgid "Getting Started"
+msgstr "Per Iniziare"
+
+#: includes/admin/class-cocart-admin-action-links.php:70
+#, fuzzy
+msgid "Developed By %s"
+msgstr "Sviluppato da %s"
+
+#: includes/admin/class-cocart-admin-action-links.php:70
+#, fuzzy
+msgid "View the developers site"
+msgstr "Visualizzare il sito per sviluppatori"
+
+#: includes/admin/class-cocart-admin-action-links.php:80
+#, fuzzy
+msgid "View %s documentation"
+msgstr "Visualizza la documentazione di %s"
+
+#: includes/admin/class-cocart-admin-action-links.php:80
+#, fuzzy
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: includes/admin/class-cocart-admin-action-links.php:81
+#, fuzzy
+msgid "Get support from the community"
+msgstr "Ottieni supporto dalla community"
+
+#: includes/admin/class-cocart-admin-action-links.php:81
+#, fuzzy
+msgid "Community Support"
+msgstr "Support Community"
+
+#: includes/admin/class-cocart-admin-action-links.php:82
+#, fuzzy
+msgid "Review %s on WordPress.org"
+msgstr "Esaminare %s su WordPress.org"
+
+#: includes/admin/class-cocart-admin-action-links.php:82
+#: includes/admin/views/html-notice-please-review.php:34
+#, fuzzy
+msgid "Leave a Review"
+msgstr "Lascia una recensione"
+
+#: includes/admin/class-cocart-admin-action-links.php:91
+#, fuzzy
+msgid "Upgrade to %s"
+msgstr "Aggiorna a %s"
+
+#: includes/admin/class-cocart-admin-action-links.php:91
+#, fuzzy
+msgid "Upgrade to Pro"
+msgstr "Aggiorna a Pro"
+
+#. translators: Number of years
+#: includes/admin/class-cocart-admin.php:171
+#, fuzzy
+msgid "%s years"
+msgstr "%s anni"
+
+#: includes/admin/class-cocart-admin.php:173
+#, fuzzy
+msgid "a year"
+msgstr "un anno"
+
+#. translators: Number of weeks
+#: includes/admin/class-cocart-admin.php:180
+#, fuzzy
+msgid "%s weeks"
+msgstr "%s settimane"
+
+#: includes/admin/class-cocart-admin.php:182
+#, fuzzy
+msgid "a week"
+msgstr "una settimana"
+
+#. translators: Number of days
+#: includes/admin/class-cocart-admin.php:189
+#, fuzzy
+msgid "%s days"
+msgstr "%s giorni"
+
+#: includes/admin/class-cocart-admin.php:191
+#, fuzzy
+msgid "a day"
+msgstr "un giorno"
+
+#. translators: Number of hours
+#: includes/admin/class-cocart-admin.php:198
+#, fuzzy
+msgid "%s hours"
+msgstr "%s ore"
+
+#: includes/admin/class-cocart-admin.php:200
+#, fuzzy
+msgid "an hour"
+msgstr "un'ora"
+
+#. translators: Number of minutes
+#: includes/admin/class-cocart-admin.php:207
+#, fuzzy
+msgid "%s minutes"
+msgstr "%s minuti"
+
+#: includes/admin/class-cocart-admin.php:209
+#, fuzzy
+msgid "a minute"
+msgstr "un minuto"
+
+#. translators: Number of seconds
+#: includes/admin/class-cocart-admin.php:216
+#, fuzzy
+msgid "%s seconds"
+msgstr "%s secondi"
+
+#: includes/admin/class-cocart-admin.php:218
+#, fuzzy
+msgid "a second"
+msgstr "un secondo"
+
+#: includes/admin/views/html-getting-started.php:25
+#: includes/admin/views/html-notice-please-review.php:25
+#: includes/admin/views/html-notice-required-wc.php:20
+#: includes/admin/views/html-notice-trying-beta.php:21
+#: includes/admin/views/html-notice-upgrade-warning.php:20
+#: includes/admin/views/html-notice-wc-not-installed.php:20
+#, fuzzy
+msgid "CoCart, a WooCommerce REST-API extension"
+msgstr "CoCart, un'estensione WOoCommerce REST-API"
+
+#: includes/admin/views/html-getting-started.php:29
+#, fuzzy
+msgid "Getting Started with %s."
+msgstr "Guida introduttiva a %s."
+
+#: includes/admin/views/html-getting-started.php:35
+#, fuzzy
+msgid "Thanks for purchasing %s."
+msgstr "Grazie per l'acquisto di %s."
+
+#: includes/admin/views/html-getting-started.php:37
+#, fuzzy
+msgid ""
+"You've just added more power to %1$s. %2$s to learn the additional endpoints "
+"now available to you."
+msgstr ""
+"Per scoprire gli endpoint aggiuntivi ora disponibili, è stato aggiunto più "
+"energia a %1 s. %2."
+
+#: includes/admin/views/html-getting-started.php:37
+#: includes/admin/views/html-getting-started.php:45
+#, fuzzy
+msgid "View Documentation"
+msgstr "Vedi la documentazione"
+
+#: includes/admin/views/html-getting-started.php:39
+#, fuzzy
+msgid "Thanks for choosing %s."
+msgstr "Grazie per aver scelto %s."
+
+#: includes/admin/views/html-getting-started.php:41
+#, fuzzy
+msgid ""
+"You've just added more control for the %2$s REST-API. %1$s gives you the "
+"final piece to the %2$s REST-API to enable it's full potential allowing you "
+"to build a store entirely via the REST-API."
+msgstr ""
+"Hai appena aggiunto un maggiore controllo per l'API REST %2. %1:s fornisce "
+"l'ultimo pezzo per l'API REST %2 per consentire il suo pieno potenziale che "
+"consente di creare un archivio interamente tramite l'API REST."
+
+#. translators: 1: Opening <a> tag to the CoCart Twitter account, 2: Opening
+#. <a> tag to the CoCart Instagram account, 3: Opening <a> tag to the Auto Load
+#. Next Post contact page, 4: Opening <a> tag to the CoCart newsletter, 5:
+#. Closing </a> tag, 6: Plugin Name
+#: includes/admin/views/html-getting-started.php:52
+#, fuzzy
+msgid ""
+"If you have any questions or feedback, let me know on %1$sTwitter%5$s, "
+"%2$sInstagram%5$s or via the %3$sFeedback page%5$s. Also, %4$ssubscribe to "
+"my newsletter%5$s if you want to stay up to date with what's new and "
+"upcoming in %6$s."
+msgstr ""
+"Se hai domande o commenti, fammelo sapere su %1 sTwitter%5' s, %2'sInstagram"
+"%5's o tramite la pagina %3'sFeedback%5's. Inoltre, %4 siscrive alla mia "
+"newsletter%5 s se vuoi rimanere aggiornato sulle novità e sulle prossime "
+"novità in %6.s."
+
+#: includes/admin/views/html-getting-started.php:56
+#, fuzzy
+msgid "Enjoy!"
+msgstr "Buon divertimento!"
+
+#: includes/admin/views/html-notice-please-review.php:29
+#, fuzzy
+msgid "Hi %1$s, are you enjoying %2$s?"
+msgstr "Ciao %1 s, ti stai godendo %2s?"
+
+#: includes/admin/views/html-notice-please-review.php:30
+#, fuzzy
+msgid ""
+"You have been using %1$s for %2$s now! Mind leaving a review and let me know "
+"know what you think of the plugin? I'd really appreciate it!"
+msgstr ""
+"È stato utilizzato %1 s per %2 s ora! Mente lasciando una recensione e "
+"fatemi sapere cosa ne pensate del plugin? Lo apprezzerei davvero!"
+
+#: includes/admin/views/html-notice-please-review.php:35
+#, fuzzy
+msgid "Hide Review Notice"
+msgstr "Nascondi avviso di revisione"
+
+#: includes/admin/views/html-notice-please-review.php:35
+#, fuzzy
+msgid "No thank you / I already have"
+msgstr "No grazie / ho già"
+
+#: includes/admin/views/html-notice-required-wc.php:24
+#, fuzzy
+msgid "Update Required!"
+msgstr "Aggiornamento richiesto!"
+
+#: includes/admin/views/html-notice-required-wc.php:25
+#, fuzzy
+msgid "%1$s requires at least %2$s v%3$s or higher."
+msgstr "%1's richiede almeno %2 s v%3 s o superiore."
+
+#: includes/admin/views/html-notice-required-wc.php:32
+#, fuzzy
+msgid "Update WooCommerce"
+msgstr "Aggiorna WooCommerce"
+
+#: includes/admin/views/html-notice-requirement-wp.php:19
+#, fuzzy
+msgid ""
+"Sorry, %1$s%3$s%2$s requires WordPress %4$s or higher. Please upgrade your "
+"WordPress setup."
+msgstr ""
+"Spiacenti, %1's%3's%2's richiede WordPress %4's o superiore. Si prega di "
+"aggiornare la configurazione di WordPress."
+
+#: includes/admin/views/html-notice-trying-beta.php:25
+#, fuzzy
+msgid "Thanks for trying out this beta/pre-release!"
+msgstr "Grazie per aver provato questa versione beta/pre-release!"
+
+#: includes/admin/views/html-notice-trying-beta.php:26
+#, fuzzy
+msgid ""
+"If you have any questions or any feedback at all, please let me know. Any "
+"little bit you're willing to share helps."
+msgstr ""
+"Se avete domande o qualsiasi feedback a tutti, per favore fatemelo sapere. "
+"Ogni piccola parte che sei disposto a condividere aiuta."
+
+#: includes/admin/views/html-notice-trying-beta.php:30
+#, fuzzy
+msgid "Give Feedback for %2$s"
+msgstr "Inviare commenti e suggerimenti per %2s"
+
+#: includes/admin/views/html-notice-trying-beta.php:30
+#, fuzzy
+msgid "Give Feedback"
+msgstr "Fornisci un Feedback"
+
+#: includes/admin/views/html-notice-trying-beta.php:31
+#, fuzzy
+msgid "Hide this notice and ask me again for feedback in 7 days"
+msgstr "Nascondi questo avviso e chiedimi di nuovo per un feedback in 7 giorni"
+
+#: includes/admin/views/html-notice-trying-beta.php:31
+#, fuzzy
+msgid "Ask me again in 7 days"
+msgstr "Chiedimi di nuovo in 7 giorni"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:24
+#, fuzzy
+msgid "Upgrade Warning!"
+msgstr "Avviso di aggiornamento!"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:25
+#, fuzzy
+msgid ""
+"Version %1$s2.0.0%2$s of %3$s is coming soon and will provide a new and "
+"improved API. Before it is released, I require your help to test it out and "
+"provide your feedback!"
+msgstr ""
+"La versione %1.s2.0.0%2's di %3 s è in arrivo e fornirà un'API nuova e "
+"migliorata. Prima che venga rilasciato, ho bisogno del tuo aiuto per "
+"testarlo e fornire il tuo feedback!"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:29
+#, fuzzy
+msgid "Learn More"
+msgstr "Per saperne di più"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:30
+#, fuzzy
+msgid "Ask me again in 2 weeks"
+msgstr "Chiedimi di nuovo in 2 settimane"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:24
+#, fuzzy
+msgid "%1$s requires %2$s to be installed and activated."
+msgstr "Per l'installazione e l'attivazione di %1 s è necessario %2 s."
+
+#: includes/admin/views/html-notice-wc-not-installed.php:32
+#, fuzzy
+msgid "Activate WooCommerce"
+msgstr "Attiva WooCommerce"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:36
+#, fuzzy
+msgid ""
+"As you do not have permission to activate a plugin. Please ask a site "
+"administrator to activate WooCommerce for you."
+msgstr ""
+"Come non si dispone dell'autorizzazione per attivare un plugin. Si prega di "
+"chiedere a un amministratore del sito di attivare WooCommerce per voi."
+
+#: includes/admin/views/html-notice-wc-not-installed.php:48
+#, fuzzy
+msgid "Install WooCommerce"
+msgstr "Installare WooCommerce"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:57
+#, fuzzy
+msgid "Turn off the CoCart plugin"
+msgstr "Disattivare il plug-in CoCart"
+
+#: includes/api/class-cocart-controller.php:50
+#, fuzzy
+msgid "Unique identifier for the product ID."
+msgstr "Identificatore univoco dell'ID prodotto."
+
+#: includes/api/class-cocart-controller.php:57
+#, fuzzy
+msgid "The quantity amount of the item to add to cart."
+msgstr "Quantità di quantità dell'articolo da aggiungere al carrello."
+
+#: includes/api/class-cocart-controller.php:65
+#, fuzzy
+msgid "Unique identifier for the variation ID."
+msgstr "Identificatore univoco dell'ID di variante."
+
+#: includes/api/class-cocart-controller.php:82
+#, fuzzy
+msgid ""
+"Re-calculates the totals once item has been added or the quantity of the "
+"item has increased."
+msgstr ""
+"Ricalcola i totali dopo che l'articolo è stato aggiunto o la quantità "
+"dell'articolo è aumentata."
+
+#: includes/api/class-cocart-controller.php:96
+#, fuzzy
+msgid "Returns the cart totals once calculated."
+msgstr "Restituisce i totali del carrello una volta calcolati."
+
+#: includes/api/class-cocart-controller.php:125
+#: includes/api/class-cocart-controller.php:144
+#, fuzzy
+msgid "Returns the URL of the product image thumbnail."
+msgstr "Restituisce l'URL dell'anteprima dell'immagine del prodotto."
+
+#: includes/api/class-cocart-controller.php:140
+#, fuzzy
+msgid "Unique identifier for the customer."
+msgstr "Identificatore univoco del cliente."
+
+#: includes/api/class-cocart-controller.php:155
+#, fuzzy
+msgid "Unique identifier for the item in the cart."
+msgstr "Identificatore univoco dell'articolo nel carrello."
+
+#: includes/api/class-cocart-controller.php:159
+#, fuzzy
+msgid "Re-calculates the totals once item has been updated."
+msgstr "Ricalcola i totali una volta che l'elemento è stato aggiornato."
+
+#: includes/api/class-cocart-controller.php:164
+#, fuzzy
+msgid "Returns the whole cart to reduce requests."
+msgstr "Restituisce l'intero carrello per ridurre le richieste."
+
+#: includes/api/class-cocart-controller.php:198
+#, fuzzy
+msgid "Returns the totals pre-formatted."
+msgstr "Restituisce i totali preformattati."
+
+#: includes/api/class-cocart-controller.php:215
+#, fuzzy
+msgid "Cannot read cart!"
+msgstr "Non riesco a leggere il carrello!"
+
+#: includes/api/class-cocart-controller.php:257
+#, fuzzy
+msgid "Customer ID is required!"
+msgstr "Id cliente è obbligatorio!"
+
+#: includes/api/class-cocart-controller.php:359
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:201
+#, fuzzy
+msgid "There are no items in the cart!"
+msgstr "Non ci sono articoli nel carrello!"
+
+#: includes/api/class-cocart-controller.php:402
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:220
+#, fuzzy
+msgid "Cart is cleared."
+msgstr "Il carrello è cancellato."
+
+#: includes/api/class-cocart-controller.php:404
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:222
+#, fuzzy
+msgid "Clearing the cart failed!"
+msgstr "Svuotare il carrello non è riuscito!"
+
+#: includes/api/class-cocart-controller.php:418
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:236
+#, fuzzy
+msgid "Product ID number is required!"
+msgstr "Il numero di identificazione del prodotto è obbligatorio!"
+
+#: includes/api/class-cocart-controller.php:422
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:240
+#, fuzzy
+msgid "Product ID must be numeric!"
+msgstr "L'ID prodotto deve essere numerico!"
+
+#: includes/api/class-cocart-controller.php:436
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:254
+#, fuzzy
+msgid "Quantity must be numeric!"
+msgstr "La quantità deve essere numerica!"
+
+#. translators: 1: quantity requested, 2: product name 3: quantity in stock
+#. translators: 1: quantity requested, 2: product name, 3: quantity in stock
+#: includes/api/class-cocart-controller.php:493
+#: includes/api/class-cocart-controller.php:564
+#, fuzzy
+msgid ""
+"You cannot add a quantity of %1$s for \"%2$s\" to the cart because there is "
+"not enough stock. - only %3$s remaining!"
+msgstr ""
+"Non è possibile aggiungere una quantità di %1 s per \"%2 s\" al carrello "
+"perché non c'è abbastanza scorte. - rimane solo %3's!"
+
+#: includes/api/class-cocart-controller.php:528
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:317
+#, fuzzy
+msgid "Warning: This product does not exist!"
+msgstr "Attenzione: Questo prodotto non esiste!"
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:547
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:330
+#, fuzzy
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Non puoi aggiungere un ulteriore &quot;%s&quot; nel carrello."
+
+#: includes/api/class-cocart-controller.php:553
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:336
+#, fuzzy
+msgid "Sorry, this product cannot be purchased."
+msgstr "Siamo spiacenti, questo articolo non può essere acquistato."
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:559
+#, fuzzy
+msgid "You cannot add \"%s\" to the cart because the product is out of stock."
+msgstr ""
+"Non è possibile aggiungere \"%s\" al carrello perché il prodotto è esaurito."
+
+#. translators: 1: quantity in stock, 2: quantity in cart
+#: includes/api/class-cocart-controller.php:576
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:356
+#, fuzzy
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %1$s in stock and you "
+"already have %2$s in your cart."
+msgstr ""
+"Non puoi aggiungere questo quantitativo al carrello &mdash; ne abbiamo %s a "
+"magazzino e ne hai già %s nel tuo carrello."
+
+#: includes/api/class-cocart-controller.php:590
+#, fuzzy
+msgid "This item can not be added to the cart."
+msgstr "Questo articolo non può essere aggiunto al carrello."
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:624
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:378
+#, fuzzy
+msgid "You cannot add \"%s\" to your cart."
+msgstr "Non è possibile aggiungere \"%s\" al carrello."
+
+#: includes/api/class-cocart-controller.php:654
+#, fuzzy
+msgid "No items in cart."
+msgstr "Nessun articoli nel carrello."
+
+#: includes/api/class-cocart-controller.php:663
+#: includes/api/class-cocart-controller.php:745
+#, fuzzy
+msgid "Item specified does not exist in cart."
+msgstr "L'elemento specificato non esiste nel carrello."
+
+#: includes/api/class-cocart-controller.php:676
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:396
+#, fuzzy
+msgid "Item has been removed from cart."
+msgstr "L'oggetto è stato rimosso dal carrello."
+
+#: includes/api/class-cocart-controller.php:678
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:398
+#, fuzzy
+msgid "Unable to remove item from cart."
+msgstr "Impossibile rimuovere l'articolo dal carrello."
+
+#: includes/api/class-cocart-controller.php:681
+#: includes/api/class-cocart-controller.php:715
+#: includes/api/class-cocart-controller.php:797
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:401
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:424
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:478
+#, fuzzy
+msgid "Cart item key is required!"
+msgstr "Chiave dell'articolo del carrello è obbligatoria!"
+
+#: includes/api/class-cocart-controller.php:710
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:419
+#, fuzzy
+msgid "Item has been restored to the cart."
+msgstr "L'oggetto è stato ripristinato nel carrello."
+
+#: includes/api/class-cocart-controller.php:712
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:421
+#, fuzzy
+msgid "Unable to restore item to the cart."
+msgstr "Impossibile ripristinare l'elemento nel carrello."
+
+#. translators: 1: product name, 2: new quantity
+#: includes/api/class-cocart-controller.php:775
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:468
+#, fuzzy
+msgid "The quantity for \"%1$s\" has increased to \"%2$s\"."
+msgstr "La quantità per \"%1 s\" è stata aumentata a \"%2 s\"."
+
+#. translators: 1: product name, 2: new quantity
+#: includes/api/class-cocart-controller.php:781
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:470
+#, fuzzy
+msgid "The quantity for \"%1$s\" has decreased to \"%2$s\"."
+msgstr "La quantità per \"%1 s\" è diminuita a \"%2 s\"."
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:787
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:472
+#, fuzzy
+msgid "The quantity for \"%s\" has not changed."
+msgstr "La quantità per \"%s\" non è stata modificata."
+
+#: includes/api/class-cocart-controller.php:794
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:475
+#, fuzzy
+msgid "Unable to update item quantity in cart."
+msgstr "Impossibile aggiornare la quantità dell'articolo nel carrello."
+
+#: includes/api/class-cocart-controller.php:812
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:491
+#, fuzzy
+msgid "No items in cart to calculate totals."
+msgstr "Nessun elemento nel carrello per calcolare i totali."
+
+#: includes/api/class-cocart-controller.php:822
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:496
+#, fuzzy
+msgid "Cart totals have been calculated."
+msgstr "I totali del carrello sono stati calcolati."
+
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:122
+#, fuzzy
+msgid "The cart item key is what identifies the item in the cart."
+msgstr ""
+"La chiave dell'elemento del carrello è ciò che identifica l'articolo nel "
+"carrello."
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:291
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:345
+#, fuzzy
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+"Non puoi aggiungere questa quantità di &quot;%s&quot; al carrello perché le "
+"scorte di magazzino non sono sufficienti. (disponibili %s)."
+
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:341
+#, fuzzy
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of "
+"stock."
+msgstr ""
+"Non puoi aggiungere &quot;%s&quot; al carrello perché il prodotto non è "
+"disponibile a magazzino."
+
+#: includes/class-cocart-install.php:130
+#, fuzzy
+msgid "Get started with %3$s here:"
+msgstr "Per iniziare a utilizzare %3's qui:"
+
+#, fuzzy
+#~ msgid ""
+#~ "Provides additional REST-API endpoints for WooCommerce to enable the "
+#~ "ability to add, view, update and delete items from the cart."
+#~ msgstr ""
+#~ "Fornisce endpoint REST-API aggiuntivi per WooCommerce per consentire la "
+#~ "possibilità di aggiungere, visualizzare, aggiornare ed eliminare elementi "
+#~ "dal carrello."

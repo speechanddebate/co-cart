@@ -1,0 +1,666 @@
+# # Copyright (c) {2019} Sébastien Dumont
+msgid ""
+msgstr ""
+"Project-Id-Version: CoCart 2.0.1\n"
+"Report-Msgid-Bugs-To: https://github.com/co-cart/co-cart/issues\n"
+"POT-Creation-Date: 2019-08-19 02:12:08+00:00\n"
+"PO-Revision-Date: 2019-08-19 04:15+0200\n"
+"Last-Translator: Sébastien Dumont <mailme@sebastiendumont.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cart-rest-api-for-woocommerce.php:78
+#, fuzzy
+msgid "Cloning this object is forbidden."
+msgstr "このオブジェクトの複製は禁止されています。"
+
+#: cart-rest-api-for-woocommerce.php:89
+#, fuzzy
+msgid "Unserializing instances of this class is forbidden."
+msgstr "このクラスの Unserializing インスタンスは禁止されています。"
+
+#: includes/admin/class-cocart-admin-action-links.php:46
+#: includes/admin/class-cocart-admin.php:58
+#, fuzzy
+msgid "Getting Started with %s"
+msgstr "%s の使用を開始する"
+
+#: includes/admin/class-cocart-admin-action-links.php:46
+#, fuzzy
+msgid "Getting Started"
+msgstr "はじめに"
+
+#: includes/admin/class-cocart-admin-action-links.php:70
+#, fuzzy
+msgid "Developed By %s"
+msgstr "%s によって開発されました"
+
+#: includes/admin/class-cocart-admin-action-links.php:70
+#, fuzzy
+msgid "View the developers site"
+msgstr "開発者向けサイトを表示する"
+
+#: includes/admin/class-cocart-admin-action-links.php:80
+#, fuzzy
+msgid "View %s documentation"
+msgstr "%s ドキュメントの表示"
+
+#: includes/admin/class-cocart-admin-action-links.php:80
+#, fuzzy
+msgid "Documentation"
+msgstr "ドキュメント"
+
+#: includes/admin/class-cocart-admin-action-links.php:81
+#, fuzzy
+msgid "Get support from the community"
+msgstr "コミュニティからのサポートを受ける"
+
+#: includes/admin/class-cocart-admin-action-links.php:81
+#, fuzzy
+msgid "Community Support"
+msgstr "コミュニティサポート"
+
+#: includes/admin/class-cocart-admin-action-links.php:82
+#, fuzzy
+msgid "Review %s on WordPress.org"
+msgstr "WordPress.orgで %s を確認する"
+
+#: includes/admin/class-cocart-admin-action-links.php:82
+#: includes/admin/views/html-notice-please-review.php:34
+#, fuzzy
+msgid "Leave a Review"
+msgstr "レビューを書く"
+
+#: includes/admin/class-cocart-admin-action-links.php:91
+#, fuzzy
+msgid "Upgrade to %s"
+msgstr "%s へのアップグレード"
+
+#: includes/admin/class-cocart-admin-action-links.php:91
+#, fuzzy
+msgid "Upgrade to Pro"
+msgstr "Proバージョンにアップグレード"
+
+#. translators: Number of years
+#: includes/admin/class-cocart-admin.php:171
+#, fuzzy
+msgid "%s years"
+msgstr "%s 年"
+
+#: includes/admin/class-cocart-admin.php:173
+#, fuzzy
+msgid "a year"
+msgstr "1年前"
+
+#. translators: Number of weeks
+#: includes/admin/class-cocart-admin.php:180
+#, fuzzy
+msgid "%s weeks"
+msgstr "%s 週"
+
+#: includes/admin/class-cocart-admin.php:182
+#, fuzzy
+msgid "a week"
+msgstr "1週間"
+
+#. translators: Number of days
+#: includes/admin/class-cocart-admin.php:189
+#, fuzzy
+msgid "%s days"
+msgstr "%s 日"
+
+#: includes/admin/class-cocart-admin.php:191
+#, fuzzy
+msgid "a day"
+msgstr "1日"
+
+#. translators: Number of hours
+#: includes/admin/class-cocart-admin.php:198
+#, fuzzy
+msgid "%s hours"
+msgstr "%s 時間"
+
+#: includes/admin/class-cocart-admin.php:200
+#, fuzzy
+msgid "an hour"
+msgstr "1時間前"
+
+#. translators: Number of minutes
+#: includes/admin/class-cocart-admin.php:207
+#, fuzzy
+msgid "%s minutes"
+msgstr "%s 分"
+
+#: includes/admin/class-cocart-admin.php:209
+#, fuzzy
+msgid "a minute"
+msgstr "1分"
+
+#. translators: Number of seconds
+#: includes/admin/class-cocart-admin.php:216
+#, fuzzy
+msgid "%s seconds"
+msgstr "%s 秒"
+
+#: includes/admin/class-cocart-admin.php:218
+#, fuzzy
+msgid "a second"
+msgstr "今"
+
+#: includes/admin/views/html-getting-started.php:25
+#: includes/admin/views/html-notice-please-review.php:25
+#: includes/admin/views/html-notice-required-wc.php:20
+#: includes/admin/views/html-notice-trying-beta.php:21
+#: includes/admin/views/html-notice-upgrade-warning.php:20
+#: includes/admin/views/html-notice-wc-not-installed.php:20
+#, fuzzy
+msgid "CoCart, a WooCommerce REST-API extension"
+msgstr "コカートウーコマースREST-API拡張機能"
+
+#: includes/admin/views/html-getting-started.php:29
+#, fuzzy
+msgid "Getting Started with %s."
+msgstr "%s の使用を開始します。"
+
+#: includes/admin/views/html-getting-started.php:35
+#, fuzzy
+msgid "Thanks for purchasing %s."
+msgstr "%s を購入していただきありがとうございます。"
+
+#: includes/admin/views/html-getting-started.php:37
+#, fuzzy
+msgid ""
+"You've just added more power to %1$s. %2$s to learn the additional endpoints "
+"now available to you."
+msgstr ""
+"%1$s. %2$s に電力を追加して、利用可能になった追加のエンドポイントを学習しまし"
+"た。"
+
+#: includes/admin/views/html-getting-started.php:37
+#: includes/admin/views/html-getting-started.php:45
+#, fuzzy
+msgid "View Documentation"
+msgstr "ドキュメンテーションを表示"
+
+#: includes/admin/views/html-getting-started.php:39
+#, fuzzy
+msgid "Thanks for choosing %s."
+msgstr "%s を選択していただきありがとうございます。"
+
+#: includes/admin/views/html-getting-started.php:41
+#, fuzzy
+msgid ""
+"You've just added more control for the %2$s REST-API. %1$s gives you the "
+"final piece to the %2$s REST-API to enable it's full potential allowing you "
+"to build a store entirely via the REST-API."
+msgstr ""
+"%2$s REST-API のコントロールが追加されました。%1$s は%2$s REST-API に最後の部"
+"分を提供し、REST-API を介してストアを完全に構築できる可能性を最大限に高めてく"
+"れます。"
+
+#. translators: 1: Opening <a> tag to the CoCart Twitter account, 2: Opening
+#. <a> tag to the CoCart Instagram account, 3: Opening <a> tag to the Auto Load
+#. Next Post contact page, 4: Opening <a> tag to the CoCart newsletter, 5:
+#. Closing </a> tag, 6: Plugin Name
+#: includes/admin/views/html-getting-started.php:52
+#, fuzzy
+msgid ""
+"If you have any questions or feedback, let me know on %1$sTwitter%5$s, "
+"%2$sInstagram%5$s or via the %3$sFeedback page%5$s. Also, %4$ssubscribe to "
+"my newsletter%5$s if you want to stay up to date with what's new and "
+"upcoming in %6$s."
+msgstr ""
+"ご質問やフィードバックがある場合は、%1$sTwitter%5$s、%2$sInstagram%5$s、また"
+"は%3$sフィードバックページ%5$sでお知らせください。また、%4$は、新着情報と今後"
+"の%6$sを最新の状態に保ちたい場合は、ニュースレター%5$sを購読します。"
+
+#: includes/admin/views/html-getting-started.php:56
+#, fuzzy
+msgid "Enjoy!"
+msgstr "楽しんで！"
+
+#: includes/admin/views/html-notice-please-review.php:29
+#, fuzzy
+msgid "Hi %1$s, are you enjoying %2$s?"
+msgstr "こんにちは %1$s, あなたは%2$sを楽しんでいますか?"
+
+#: includes/admin/views/html-notice-please-review.php:30
+#, fuzzy
+msgid ""
+"You have been using %1$s for %2$s now! Mind leaving a review and let me know "
+"know what you think of the plugin? I'd really appreciate it!"
+msgstr ""
+"現在 、%1$s を %2$s に使用しています。レビューを残して、私はあなたがプラグイ"
+"ンの考えを知ってみましょうか?私は本当に感謝します!"
+
+#: includes/admin/views/html-notice-please-review.php:35
+#, fuzzy
+msgid "Hide Review Notice"
+msgstr "レビュー通知の非表示"
+
+#: includes/admin/views/html-notice-please-review.php:35
+#, fuzzy
+msgid "No thank you / I already have"
+msgstr "いいえありがとう/私はすでに持っている"
+
+#: includes/admin/views/html-notice-required-wc.php:24
+#, fuzzy
+msgid "Update Required!"
+msgstr "更新が必要です!"
+
+#: includes/admin/views/html-notice-required-wc.php:25
+#, fuzzy
+msgid "%1$s requires at least %2$s v%3$s or higher."
+msgstr "%1$s は、少なくとも %2$s v%3$s 以上が必要です。"
+
+#: includes/admin/views/html-notice-required-wc.php:32
+#, fuzzy
+msgid "Update WooCommerce"
+msgstr "ウーコマースの更新"
+
+#: includes/admin/views/html-notice-requirement-wp.php:19
+#, fuzzy
+msgid ""
+"Sorry, %1$s%3$s%2$s requires WordPress %4$s or higher. Please upgrade your "
+"WordPress setup."
+msgstr ""
+"申し訳ありませんが、%1$s%3$s%2$sはワードプレス%4$s以上が必要です。ワードプレ"
+"スの設定をアップグレードしてください。"
+
+#: includes/admin/views/html-notice-trying-beta.php:25
+#, fuzzy
+msgid "Thanks for trying out this beta/pre-release!"
+msgstr "このベータ版/プレリリースを試していただきありがとうございます!"
+
+#: includes/admin/views/html-notice-trying-beta.php:26
+#, fuzzy
+msgid ""
+"If you have any questions or any feedback at all, please let me know. Any "
+"little bit you're willing to share helps."
+msgstr "ご質問やご意見をお聞かせください。あなたが共有する喜んで少しのヘルプ。"
+
+#: includes/admin/views/html-notice-trying-beta.php:30
+#, fuzzy
+msgid "Give Feedback for %2$s"
+msgstr "%2$s に対するフィードバックを提供する"
+
+#: includes/admin/views/html-notice-trying-beta.php:30
+#, fuzzy
+msgid "Give Feedback"
+msgstr "フィードバックを与える"
+
+#: includes/admin/views/html-notice-trying-beta.php:31
+#, fuzzy
+msgid "Hide this notice and ask me again for feedback in 7 days"
+msgstr "この通知を非表示にし、7 日間でフィードバックをもう一度私に尋ねる"
+
+#: includes/admin/views/html-notice-trying-beta.php:31
+#, fuzzy
+msgid "Ask me again in 7 days"
+msgstr "7日後にもう一度私に尋ねる"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:24
+#, fuzzy
+msgid "Upgrade Warning!"
+msgstr "アップグレードの警告!"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:25
+#, fuzzy
+msgid ""
+"Version %1$s2.0.0%2$s of %3$s is coming soon and will provide a new and "
+"improved API. Before it is released, I require your help to test it out and "
+"provide your feedback!"
+msgstr ""
+"バージョン %1$s2.0.0%2$s の %3$s が間もなくリリースされ、新しく改良された "
+"API が提供されます。それがリリースされる前に、私はそれをテストし、あなたの"
+"フィードバックを提供するためにあなたの助けが必要です!"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:29
+#, fuzzy
+msgid "Learn More"
+msgstr "詳細はこちら"
+
+#: includes/admin/views/html-notice-upgrade-warning.php:30
+#, fuzzy
+msgid "Ask me again in 2 weeks"
+msgstr "2週間後にもう一度私に尋ねる"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:24
+#, fuzzy
+msgid "%1$s requires %2$s to be installed and activated."
+msgstr "%1$s をインストールしてアクティブ化するには%2$s が必要です。"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:32
+#, fuzzy
+msgid "Activate WooCommerce"
+msgstr "ウーコマースを有効にする"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:36
+#, fuzzy
+msgid ""
+"As you do not have permission to activate a plugin. Please ask a site "
+"administrator to activate WooCommerce for you."
+msgstr ""
+"あなたはプラグインをアクティブにする権限を持っていないように。サイト管理者に "
+"WooCommerce のアクティベーションを依頼してください。"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:48
+msgid "Install WooCommerce"
+msgstr "WooCommerce をインストールします"
+
+#: includes/admin/views/html-notice-wc-not-installed.php:57
+#, fuzzy
+msgid "Turn off the CoCart plugin"
+msgstr "CoCart プラグインをオフにする"
+
+#: includes/api/class-cocart-controller.php:50
+#, fuzzy
+msgid "Unique identifier for the product ID."
+msgstr "製品 ID の一意の識別子。"
+
+#: includes/api/class-cocart-controller.php:57
+#, fuzzy
+msgid "The quantity amount of the item to add to cart."
+msgstr "カートに追加する品目の数量。"
+
+#: includes/api/class-cocart-controller.php:65
+#, fuzzy
+msgid "Unique identifier for the variation ID."
+msgstr "バリエーション ID の一意の識別子。"
+
+#: includes/api/class-cocart-controller.php:82
+#, fuzzy
+msgid ""
+"Re-calculates the totals once item has been added or the quantity of the "
+"item has increased."
+msgstr ""
+"品目が追加された後、または品目の数量が増加した後に合計が再計算されます。"
+
+#: includes/api/class-cocart-controller.php:96
+#, fuzzy
+msgid "Returns the cart totals once calculated."
+msgstr "計算後のカートの合計を返します。"
+
+#: includes/api/class-cocart-controller.php:125
+#: includes/api/class-cocart-controller.php:144
+#, fuzzy
+msgid "Returns the URL of the product image thumbnail."
+msgstr "製品イメージのサムネイルの URL を返します。"
+
+#: includes/api/class-cocart-controller.php:140
+#, fuzzy
+msgid "Unique identifier for the customer."
+msgstr "顧客の一意の識別子。"
+
+#: includes/api/class-cocart-controller.php:155
+#, fuzzy
+msgid "Unique identifier for the item in the cart."
+msgstr "カート内の品目の一意の識別子。"
+
+#: includes/api/class-cocart-controller.php:159
+#, fuzzy
+msgid "Re-calculates the totals once item has been updated."
+msgstr "アイテムの更新後に合計が再計算されます。"
+
+#: includes/api/class-cocart-controller.php:164
+#, fuzzy
+msgid "Returns the whole cart to reduce requests."
+msgstr "要求を減らすためにカート全体を返します。"
+
+#: includes/api/class-cocart-controller.php:198
+#, fuzzy
+msgid "Returns the totals pre-formatted."
+msgstr "あらかじめ書式設定された合計を返します。"
+
+#: includes/api/class-cocart-controller.php:215
+#, fuzzy
+msgid "Cannot read cart!"
+msgstr "カートを読み取ることができません!"
+
+#: includes/api/class-cocart-controller.php:257
+msgid "Customer ID is required!"
+msgstr "顧客 ID が必要です!"
+
+#: includes/api/class-cocart-controller.php:359
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:201
+#, fuzzy
+msgid "There are no items in the cart!"
+msgstr "カートにアイテムがありません!"
+
+#: includes/api/class-cocart-controller.php:402
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:220
+#, fuzzy
+msgid "Cart is cleared."
+msgstr "カートがクリアされます。"
+
+#: includes/api/class-cocart-controller.php:404
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:222
+#, fuzzy
+msgid "Clearing the cart failed!"
+msgstr "カートのクリアに失敗しました!"
+
+#: includes/api/class-cocart-controller.php:418
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:236
+#, fuzzy
+msgid "Product ID number is required!"
+msgstr "製品ID番号が必要です!"
+
+#: includes/api/class-cocart-controller.php:422
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:240
+msgid "Product ID must be numeric!"
+msgstr "製品 ID は数値である必要があります!"
+
+#: includes/api/class-cocart-controller.php:436
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:254
+#, fuzzy
+msgid "Quantity must be numeric!"
+msgstr "数量は数値でなければなりません!"
+
+#. translators: 1: quantity requested, 2: product name 3: quantity in stock
+#. translators: 1: quantity requested, 2: product name, 3: quantity in stock
+#: includes/api/class-cocart-controller.php:493
+#: includes/api/class-cocart-controller.php:564
+#, fuzzy
+msgid ""
+"You cannot add a quantity of %1$s for \"%2$s\" to the cart because there is "
+"not enough stock. - only %3$s remaining!"
+msgstr ""
+"在庫が不足しているため、カートに \"%2$s\" の %1$s の数量を追加することはでき"
+"ません。- 残りは%3$sのみ!"
+
+#: includes/api/class-cocart-controller.php:528
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:317
+msgid "Warning: This product does not exist!"
+msgstr "警告: この製品は存在しません!"
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:547
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:330
+#, fuzzy
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "お申込みリストへ「%s」をさらに追加することはできません。"
+
+#: includes/api/class-cocart-controller.php:553
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:336
+#, fuzzy
+msgid "Sorry, this product cannot be purchased."
+msgstr "申し訳ありませんが、この製品は購入できません。"
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:559
+#, fuzzy
+msgid "You cannot add \"%s\" to the cart because the product is out of stock."
+msgstr "製品が在庫切れのため、カートに \"%s\" を追加できません。"
+
+#. translators: 1: quantity in stock, 2: quantity in cart
+#: includes/api/class-cocart-controller.php:576
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:356
+#, fuzzy
+msgid ""
+"You cannot add that amount to the cart &mdash; we have %1$s in stock and you "
+"already have %2$s in your cart."
+msgstr ""
+"ご指定の数量を追加することができません。&mdash; 現在の在庫数 %1$s 件に対し"
+"て、すでにお申込みリストに %2$s 個入っています。"
+
+#: includes/api/class-cocart-controller.php:590
+#, fuzzy
+msgid "This item can not be added to the cart."
+msgstr "このアイテムはカートに追加できません。"
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:624
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:378
+#, fuzzy
+msgid "You cannot add \"%s\" to your cart."
+msgstr "カートに \"%s\" を追加することはできません。"
+
+#: includes/api/class-cocart-controller.php:654
+#, fuzzy
+msgid "No items in cart."
+msgstr "カートに品目がありません。"
+
+#: includes/api/class-cocart-controller.php:663
+#: includes/api/class-cocart-controller.php:745
+#, fuzzy
+msgid "Item specified does not exist in cart."
+msgstr "指定された品目がカートに存在しません。"
+
+#: includes/api/class-cocart-controller.php:676
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:396
+#, fuzzy
+msgid "Item has been removed from cart."
+msgstr "品目がカートから削除されました。"
+
+#: includes/api/class-cocart-controller.php:678
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:398
+#, fuzzy
+msgid "Unable to remove item from cart."
+msgstr "カートからアイテムを削除できません。"
+
+#: includes/api/class-cocart-controller.php:681
+#: includes/api/class-cocart-controller.php:715
+#: includes/api/class-cocart-controller.php:797
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:401
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:424
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:478
+#, fuzzy
+msgid "Cart item key is required!"
+msgstr "カートアイテムキーが必要です!"
+
+#: includes/api/class-cocart-controller.php:710
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:419
+#, fuzzy
+msgid "Item has been restored to the cart."
+msgstr "アイテムはカートに復元されました。"
+
+#: includes/api/class-cocart-controller.php:712
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:421
+#, fuzzy
+msgid "Unable to restore item to the cart."
+msgstr "品目をカートに復元できません。"
+
+#. translators: 1: product name, 2: new quantity
+#: includes/api/class-cocart-controller.php:775
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:468
+#, fuzzy
+msgid "The quantity for \"%1$s\" has increased to \"%2$s\"."
+msgstr "\"%1$s\" の数量が \"%2$s\" に増加しました。"
+
+#. translators: 1: product name, 2: new quantity
+#: includes/api/class-cocart-controller.php:781
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:470
+#, fuzzy
+msgid "The quantity for \"%1$s\" has decreased to \"%2$s\"."
+msgstr "\"%1$s\" の数量が \"%2$s\" に減少しました。"
+
+#. translators: %s: product name
+#: includes/api/class-cocart-controller.php:787
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:472
+#, fuzzy
+msgid "The quantity for \"%s\" has not changed."
+msgstr "\"%s\" の数量は変更されていません。"
+
+#: includes/api/class-cocart-controller.php:794
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:475
+#, fuzzy
+msgid "Unable to update item quantity in cart."
+msgstr "カート内の品目数量を更新できません。"
+
+#: includes/api/class-cocart-controller.php:812
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:491
+#, fuzzy
+msgid "No items in cart to calculate totals."
+msgstr "合計を計算するカート内の品目がありません。"
+
+#: includes/api/class-cocart-controller.php:822
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:496
+#, fuzzy
+msgid "Cart totals have been calculated."
+msgstr "カートの合計が計算されました。"
+
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:122
+#, fuzzy
+msgid "The cart item key is what identifies the item in the cart."
+msgstr "カート品目キーは、カート内の品目を識別します。"
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:291
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:345
+#, fuzzy
+msgid ""
+"You cannot add that amount of &quot;%1$s&quot; to the cart because there is "
+"not enough stock (%2$s remaining)."
+msgstr ""
+"在庫不足のため、お申込みリストへ&quot;%1$s&quot; を追加することができません"
+"（在庫数 %2$s ）。"
+
+#: includes/api/wc-v2/class-wc-rest-cart-controller.php:341
+#, fuzzy
+msgid ""
+"You cannot add &quot;%s&quot; to the cart because the product is out of "
+"stock."
+msgstr ""
+"項目が在庫切れのため、お申込みリストへ&quot;%s&quot;を追加することができませ"
+"ん。"
+
+#: includes/class-cocart-install.php:130
+msgid "Get started with %3$s here:"
+msgstr "%3$s を使用する前に、次の方法を使用します:"
+
+#, fuzzy
+#~ msgid "CoCart Pro"
+#~ msgstr "コカートプロ"
+
+#, fuzzy
+#~ msgid "CoCart"
+#~ msgstr "コカート"
+
+#, fuzzy
+#~ msgid "CoCart a WooCommerce API extension"
+#~ msgstr "コカート・ア・ウーコマースAPI拡張機能"
+
+#, fuzzy
+#~ msgid ""
+#~ "Provides additional REST-API endpoints for WooCommerce to enable the "
+#~ "ability to add, view, update and delete items from the cart."
+#~ msgstr ""
+#~ "WooCommerce 用に REST-API エンドポイントを追加して、カートからアイテムを追"
+#~ "加、表示、更新、および削除できるようにします。"
+
+#, fuzzy
+#~ msgid "Sébastien Dumont"
+#~ msgstr "セバスチャン・デュモン"
